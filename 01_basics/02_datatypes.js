@@ -8,6 +8,7 @@ let logedIn = true
 //boolean =>true/false
 //null => standalone value => object
 //undefined => undefined
+//symbol => unique
 
 
 //object
